@@ -19,6 +19,8 @@ Langkah untuk mereproduksi bug:
 
 **Screenshots**
 Screenshot saat bug terjadi.
+Untuk upload screenshot, pindahkan kursor ke baris dibawah ini, kemudian drag screenshotnya kesitu.
+
 
 **Smartphone Spec (please complete the following information):**
  - Model Smartphone: [e.g. Asus Zenfone 5] atau tambahkan URL ke laman gsmarena atau situs lain yang memuat spec smartphonemu.

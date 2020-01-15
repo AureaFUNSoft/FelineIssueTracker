@@ -22,6 +22,8 @@ Steps to reproduce the behavior:
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
+To add screenshot move your cursor to the next line and drag the screenshot there.
+
 
 **Smartphone Spec (please complete the following information):**
  - Device: [e.g. iPhone6] or add URL to gsmarena page or other site that have your phone spec
